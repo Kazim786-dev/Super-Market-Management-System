@@ -1,0 +1,973 @@
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Super Market Management System.staticwebassets.runtime.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Super Market Management System.exe
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Super Market Management System.deps.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Super Market Management System.runtimeconfig.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Super Market Management System.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Super Market Management System.pdb
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.AssemblyReference.cache
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfoInputs.cache
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfo.cs
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cache
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cs
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\scopedcss\bundle\Super Market Management System.styles.css
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\scopedcss\projectbundle\Super Market Management System.bundle.scp.css
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CopyComplete
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\refint\Super Market Management System.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.pdb
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.genruntimeconfig.cache
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\ref\Super Market Management System.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.staticwebassets.runtime.json
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.exe
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.deps.json
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.runtimeconfig.json
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.pdb
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.AssemblyReference.cache
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfoInputs.cache
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfo.cs
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cache
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cs
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\scopedcss\bundle\Super Market Management System.styles.css
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\scopedcss\projectbundle\Super Market Management System.bundle.scp.css
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CopyComplete
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.dll
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\refint\Super Market Management System.dll
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.pdb
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.genruntimeconfig.cache
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\ref\Super Market Management System.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.exe
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.deps.json
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.runtimeconfig.json
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Super Market Management System.pdb
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\scopedcss\bundle\Super Market Management System.styles.css
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\scopedcss\projectbundle\Super Market Management System.bundle.scp.css
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.dll
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\refint\Super Market Management System.dll
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.pdb
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Super Market Management System\obj\Debug\net6.0\ref\Super Market Management System.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Taha Asif\Documents\_Assignments-4th semester\DB\Project\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sc\Desktop\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sc\Desktop\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Super Market Management System.staticwebassets.runtime.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Super Market Management System.exe
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Super Market Management System.deps.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Super Market Management System.runtimeconfig.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Super Market Management System.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Super Market Management System.pdb
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.AssemblyReference.cache
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfoInputs.cache
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.AssemblyInfo.cs
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cache
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.RazorAssemblyInfo.cs
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\scopedcss\bundle\Super Market Management System.styles.css
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\scopedcss\projectbundle\Super Market Management System.bundle.scp.css
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.csproj.CopyComplete
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\refint\Super Market Management System.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.pdb
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\Super Market Management System.genruntimeconfig.cache
+C:\Users\Taha Asif\Downloads\Super Market Management System\obj\Debug\net6.0\ref\Super Market Management System.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\OpenHtmlToPdf.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\PdfSharpCore.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\HtmlRenderer.Core.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\HtmlRenderer.PdfSharp.Core.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Rotativa.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\SixLabors.Core.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Select.Html.dep
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\libman.json
+C:\Users\Taha Asif\Downloads\Super Market Management System\bin\Debug\net6.0\Select.HtmlToPdf.dll

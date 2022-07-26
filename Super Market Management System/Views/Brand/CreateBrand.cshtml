@@ -1,0 +1,42 @@
+﻿@model Brand
+@{
+    ViewData["Title"] = "Create Brand";
+}
+<br />
+<h2>Create Brand</h2>
+
+&nbsp;&nbsp;
+
+
+
+<form method="post">
+  
+    <div class="form-floating mb-3">
+        <input type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">Brand Name</label>
+        <span asp-validation-for="BrandName" class="text-danger"></span>
+     
+    </div>
+
+    <div class="form-floating mb-3">
+        <input type="text" name="txtOffice" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">Head Office</label>
+        <span asp-validation-for="HeadOffice" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+       <button class="btn btn-primary" type="submit">Create</button>
+    </div>
+    <br />
+
+    <a  asp-action="Index" asp-controller="Brand">Back to List</a>
+
+</form>
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

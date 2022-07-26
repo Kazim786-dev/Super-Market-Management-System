@@ -1,0 +1,37 @@
+﻿@model Brand
+
+@{
+    ViewData["Title"] = "Update Brand";
+}
+
+<br />
+
+<h2>Edit Brand</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  <fieldset>
+    <div class="form-floating mb-3">
+        <input type="text" name="txtOffice" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">Head Office</label>
+        <span asp-validation-for="HeadOffice" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+        <input type="hidden" name="id" value=@Model.BrandId></input>
+       <button class="btn btn-primary" type="submit">Update</button>
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Brand">Back to List</a>
+  </fieldset>
+</form>
+
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

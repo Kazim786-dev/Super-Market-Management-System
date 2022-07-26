@@ -1,0 +1,24 @@
+﻿
+@if(TempData["ErrorMsg"]!=null){
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script>
+    toastr.error('@TempData["ErrorMsg"]')
+</script>
+
+
+}
+
+
+@if(TempData["SuccessMsg"]!=null){
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+    <script>
+        toastr.success('@TempData["SuccessMsg"]')
+    </script>
+
+}

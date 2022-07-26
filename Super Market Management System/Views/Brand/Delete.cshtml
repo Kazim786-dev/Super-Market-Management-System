@@ -1,0 +1,48 @@
+﻿@model Brand
+
+@{
+    ViewData["Title"] = "Delete Brand";
+}
+
+<br />
+
+<h2>Delete Brand</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  
+    <input type="hidden" asp-for="BrandId" />
+    <div class="form-floating mb-3">
+        
+        <input disabled type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">@ViewBag.brands.BrandName</label>
+        <span asp-validation-for="BrandName" class="text-danger"></span>
+
+     
+    </div>
+
+      <div class="form-floating mb-3">
+        
+        <input disabled type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">@ViewBag.brands.HeadOffice</label>
+        <span asp-validation-for="HeadOffice" class="text-danger"></span>
+
+     
+    </div>
+
+    <div class="col-12">
+       @*<button class="btn btn-primary" type="submit">Delete</button>*@
+       <button type="submit" class="btn btn-outline-danger btn-primary">Delete</button>
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Brand">Back to List</a>
+
+</form>
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

@@ -1,0 +1,66 @@
+﻿@model Supplier
+
+@{
+    ViewData["Title"] = "Remove Supplier";
+}
+
+<br />
+
+<h2>Remove Supplier</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  
+    <input type="hidden" asp-for="supplierid" />
+    
+    <div class="form-floating mb-3">
+        
+        <input disabled type="number" name="id" class="form-control" id="floatingInputValue" required >
+        <label for="floatingInputValue">@ViewBag.Supplier.supplierid</label>
+        <span asp-validation-for="supplierid" class="text-danger"></span>
+     
+    </div>
+    
+    <div class="form-floating mb-3">
+        
+        <input disabled type="text" name="name" class="form-control" id="floatingInputValue" required >
+        <label for="floatingInputValue">@ViewBag.Supplier.name</label>
+        <span asp-validation-for="name" class="text-danger"></span>
+     
+    </div>
+
+    <div class="form-floating mb-3">
+        
+        <input disabled type="email" name="email" class="form-control" id="floatingInputValue"  required >
+        <label for="floatingInputValue">@ViewBag.Supplier.email</label>
+        <span asp-validation-for="email" class="text-danger"></span>
+     
+    </div>
+
+    <div class="form-floating mb-3">
+        
+        <input disabled type="tel" name="phone" class="form-control" id="floatingInputValue"  required >
+        <label for="floatingInputValue">@ViewBag.Supplier.phone</label>
+        <span asp-validation-for="phone" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+        <input type="hidden" value=@Model.supplierid name="cashid" />
+       <button class="btn btn-primary" type="submit">Delete</button>
+       @Html.AntiForgeryToken()
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Supplier">Back to List</a>
+
+</form>
+
+
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

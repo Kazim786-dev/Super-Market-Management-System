@@ -1,0 +1,48 @@
+﻿
+@model Product
+
+
+@{
+    ViewData["Title"] = "Update Product";
+}
+
+<br />
+
+<h2>Update Products</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  
+    <div class="form-floating mb-3">
+        <input type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. iPhone X" required >
+        <label for="floatingInputValue">Product Name</label>
+        <span asp-validation-for="ProdName" class="text-danger"></span>
+
+     
+    </div>
+
+
+    <div class="form-floating mb-3">
+        <input type="number" name="txtPrice" class="form-control" id="floatingInputValue" placeholder="eg. 1000" required >
+        <label for="floatingInputValue">Product Price</label>
+        <span asp-validation-for="ProdPrice" class="text-danger"></span>
+    </div>
+
+
+    <div class="col-12">
+    <input type="hidden" value=@Model.ProdId name="pid" />
+    <button class="btn btn-primary" type="submit">Update</button>
+    @Html.AntiForgeryToken()
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Product">Back to List</a>
+
+</form>
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

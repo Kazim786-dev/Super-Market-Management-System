@@ -1,0 +1,78 @@
+﻿      @model IEnumerable<Category> 
+
+@{
+    ViewData["Title"] = "View Category";
+}
+
+<div class="container p-4">
+    <div class="row p-3">
+        <div class="column col-6">
+            <h2 class="text-primary">Categories</h2>
+        </div>
+        <div class="column col-6 text-end" >
+           <a class="btn btn-primary" asp-action="Create" asp-controller="Category"><i class="bi bi-plus-circle"></i>&nbsp; New Category</a>
+        </div>
+    </div>
+
+</div>
+    
+
+
+
+@*<table class="table-bordered table-striped" style="width:100%"></table>
+
+<table>
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Action</th>
+      </tr>
+  </thead>
+  <tbody>
+      @foreach (var item in Model)
+      {
+      <tr>
+        <td>@item.Id</td>
+        <td>@item.Name</td>
+        <td role="group">
+            <a asp-action="Edit" asp-controller="Category" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+        </td>
+        <td role="group">
+            <a asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id"><i class="bi bi-trash3"></i></a>
+        </td>
+      </tr>
+      
+      }
+  </tbody>
+</table>*@
+
+
+<table class="table table-hover">
+    
+      <thead class="thead-dark table-primary">
+          <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Action</th>
+          </tr>
+      </thead>
+
+      <tbody>
+          @foreach (var item in Model){
+            <tr >
+              <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td role="group">
+                    <a asp-action="Edit" asp-controller="Category" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                    &nbsp;&nbsp;
+                    <a asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id"><i class="bi bi-trash3"></i></a>
+                </td>
+            </tr>
+          }
+      </tbody>
+    
+</table>
+
+
+

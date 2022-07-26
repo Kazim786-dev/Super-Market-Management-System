@@ -1,0 +1,67 @@
+﻿@model Cashier
+
+@{
+    ViewData["Title"] = "Remove Cashier";
+}
+
+<br />
+
+<h2>Remove Cashier</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  
+    <input type="hidden" asp-for="cashierid" />
+    
+    <div class="form-floating mb-3">
+        
+        <input disabled type="number" name="id" class="form-control" id="floatingInputValue" required >
+        <label for="floatingInputValue">@ViewBag.Cashier.cashierid</label>
+        <span asp-validation-for="cashierid" class="text-danger"></span>
+     
+    </div>
+    
+    <div class="form-floating mb-3">
+        
+        <input disabled type="text" name="name" class="form-control" id="floatingInputValue" required >
+        <label for="floatingInputValue">@ViewBag.Cashier.name</label>
+        <span asp-validation-for="name" class="text-danger"></span>
+     
+    </div>
+
+    <div class="form-floating mb-3">
+        
+        <input disabled type="email" name="email" class="form-control" id="floatingInputValue"  required >
+        <label for="floatingInputValue">@ViewBag.Cashier.email</label>
+        <span asp-validation-for="email" class="text-danger"></span>
+     
+    </div>
+
+    <div class="form-floating mb-3">
+        
+        <input disabled type="tel" name="phone" class="form-control" id="floatingInputValue"  required >
+        <label for="floatingInputValue">@ViewBag.Cashier.phone</label>
+        <span asp-validation-for="phone" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+        <input type="hidden" value=@Model.cashierid name="cashid" />
+       @*<button class="btn btn-primary" type="submit">Delete</button>*@
+       <button type="submit" class="btn btn-outline-danger btn-primary">Delete</button>
+       @Html.AntiForgeryToken()
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Cashier">Back to List</a>
+
+</form>
+
+
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

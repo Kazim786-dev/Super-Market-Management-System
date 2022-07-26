@@ -1,0 +1,100 @@
+﻿      @model IEnumerable<Product>
+       @*Product*@
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<br />
+<h2>Add Product</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" class="row g-3" asp-controller="Product">
+  
+    <div class="form-floating mb-3">
+        <input type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. iPhone X" required >
+        <label for="floatingInputValue">Product Name</label>
+@*        <span asp-validation-for="Prodname" class="text-danger"></span>*@
+    </div>
+
+    <div class="form-floating mb-3">
+        <input type="number" name="txtPrice" class="form-control" id="floatingInputValue" placeholder="eg. 1000" required >
+        <label for="floatingInputValue">Product Price</label>
+@*        <span asp-validation-for="Prodname" class="text-danger"></span>*@
+    </div>
+
+    <div class="form-floating mb-3">
+        <input type="number" name="txtquan" class="form-control" id="floatingInputValue" placeholder="eg. 5" required >
+        <label for="floatingInputValue">Product Quantity</label>
+@*        <span asp-validation-for="Prodname" class="text-danger"></span>*@
+    </div>
+
+
+
+    <div class="col-12">
+        <label for="inputState" class="form-label">Category</label>
+        <select id="inputState" class="form-select" name="cat" >
+          <option selected>...Select Category...</option>
+          @foreach (var cat in ViewBag.categories) {
+              
+              <option name="cid" value=@cat.Id>@cat.Name</option>
+          }
+        </select>
+   </div>
+
+
+   @*<div class="col-12">
+        <label for="inputState" class="form-label">Brand</label>
+
+        <select id="inputState" class="form-select" asp-items="new SelectList(ViewBag.brands)" name="brand" >
+          <option >...Select Brand...</option>
+         
+        </select>
+    </div>*@
+
+
+
+
+
+    @*<div class="col-12">
+        <label for="inputState" class="form-label">Brand</label>
+
+        <select  id="inputState" class="form-select" asp-items="@ViewBag.brands" name="brand" >
+          <option >...Select Brand...</option>
+         
+        </select>
+    </div>*@
+    
+
+
+
+   <div class="col-12">
+        <label for="inputState" class="form-label">Brand</label>
+
+        <select  id="inputState" class="form-select" name="brand" >
+          <option >...Select Brand...</option>
+          
+          @foreach (var b in ViewBag.brands) {
+              
+              <option name="bid" value=@b.BrandId>@b.BrandName</option>
+          }
+        </select>
+   </div>
+
+
+    <div class="col-12">
+       <button class="btn btn-primary" type="submit">Create</button>
+    </div>
+
+    <br />
+    <a  asp-action="Index" asp-controller="Product">Back to List</a>
+
+</form>
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

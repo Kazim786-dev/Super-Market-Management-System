@@ -1,0 +1,38 @@
+﻿@model Category
+
+@{
+    ViewData["Title"] = "Delete Category";
+}
+
+<br />
+
+<h2>Delete Category</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  
+    <input type="hidden" asp-for="Id" />
+    <div class="form-floating mb-3">
+        
+        <input disabled type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">@ViewBag.category.Name</label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+       @*<button class="btn btn-primary" type="submit">Delete</button>*@
+       <button type="submit" class="btn btn-outline-danger btn-primary">Delete</button>
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Category">Back to List</a>
+
+</form>
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

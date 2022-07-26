@@ -1,0 +1,35 @@
+﻿      @model Category
+
+@{
+    ViewData["Title"] = "Create Category";
+}
+
+<br />
+<h2>Create Category</h2>
+
+&nbsp;&nbsp;
+
+<form method="post">
+  
+    <div class="form-floating mb-3">
+        <input type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">Category Name</label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+       <button class="btn btn-primary" type="submit">Create</button>
+    </div>
+    <br />
+
+    <a  asp-action="Index" asp-controller="Category">Back to List</a>
+
+</form>
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

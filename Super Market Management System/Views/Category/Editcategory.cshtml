@@ -1,0 +1,35 @@
+﻿@model Category
+
+@{
+    ViewData["Title"] = "Update Category";
+}
+<br />
+<h2>Update Category</h2>
+
+&nbsp;&nbsp;
+
+<form method="post" >
+  <fieldset>
+    <div class="form-floating mb-3">
+        <input type="text" name="txtName" class="form-control" id="floatingInputValue" placeholder="eg. Mobile" required >
+        <label for="floatingInputValue">Category Name</label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+     
+    </div>
+
+    <div class="col-12">
+       <button class="btn btn-primary" type="submit">Update</button>
+    </div>
+    <br />
+    <a  asp-action="View" asp-controller="Category">Back to List</a>
+  </fieldset>
+</form>
+
+
+
+@section scripts{
+    
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
